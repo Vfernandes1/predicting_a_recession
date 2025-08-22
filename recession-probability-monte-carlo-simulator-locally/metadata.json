@@ -1,0 +1,5 @@
+{
+  "name": "Recession Probability Monte Carlo Simulator",
+  "description": "An interactive web application that uses a Monte Carlo simulation to estimate the probability of an economic recession based on key indicators. It leverages the Gemini API to provide qualitative context for the quantitative results.",
+  "requestFramePermissions": []
+}
